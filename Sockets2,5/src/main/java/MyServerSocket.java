@@ -50,5 +50,4 @@ public class MyServerSocket implements Runnable{
             e.printStackTrace();
         }
     }
-
 }
